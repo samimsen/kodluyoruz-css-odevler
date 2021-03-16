@@ -1,0 +1,36 @@
+body {
+    font-family: 'Libre Franklin', sans-serif;
+    background-color: #d8ebe4;
+    text-align: center;
+}
+
+h1 {
+    color: #f2a154 ;
+}
+
+h2 {
+    color: #af16dd;
+}
+
+h3 {
+    color: #fa099e;
+}
+
+ol {
+    list-style-position: inside;
+    list-style-type: upper-roman;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+#kirmizi-link {
+    background-color: red;
+    text-decoration: none;
+}
+
+.menu {
+    margin: 10px;
+}
+
